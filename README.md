@@ -6,10 +6,6 @@
 
 A fast, modern Point of Sale (POS) system built with **React**, **TypeScript**, and **Vite**, designed for speed, scalability, and clean user interface. Ideal for retail, restaurants, and small businesses.
 
-![License](https://img.shields.io/github/license/your-username/react-pos-system)
-![Languages](https://img.shields.io/github/languages/top/your-username/react-pos-system)
-
----
 
 ## 📖 Description
 
